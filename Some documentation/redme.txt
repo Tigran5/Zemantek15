@@ -1,0 +1,4 @@
+There are tables of login for adminnistrator, table for Projects
+and table for Team.
+I describe in the pictures how it must work only for projects,
+but for Team page it work similar. I did all this and it is working normal.
